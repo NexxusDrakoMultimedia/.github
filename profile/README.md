@@ -1,6 +1,6 @@
-# Nexxus Drako Gaming
+# Nexxus Drako Multimedia
 
-**Nexxus Drako Gaming** is the creative and gaming brand of **Pyra Drake** (also known online as *KitsuNet* and formerly *Jarokn*) — an autistic trans woman and creative jack of all trades from Brisbane, Australia, who trades as an author, video game developer, online content creator, and musician. The brand serves as the cohesive social identity uniting streaming, game modding, open-source development, tabletop game design, music, and a wide range of other creative projects under one roof.
+**Nexxus Drako Multimedia** is the creative and gaming brand of **Pyra Drake** (also known online as *KitsuNet* and formerly *Jarokn*) — an autistic trans woman and creative jack of all trades from Brisbane, Australia, who trades as an author, video game developer, online content creator, and musician. The brand serves as the cohesive social identity uniting streaming, game modding, open-source development, tabletop game design, music, and a wide range of other creative projects under one roof.
 
 🌏 **Website:** [nexxusdrako.au](https://nexxusdrako.au/)
 
