@@ -1,6 +1,6 @@
 # Nexxus Drako Multimedia
 
-**Nexxus Drako Multimedia** is the creative brand of **Pyra Drake** (also known online as *KitsuNet* and formerly *Jarokn*) — an autistic trans woman and creative jack of all trades from Brisbane, Australia, who trades as an author, video game developer, online content creator, and musician. The brand serves as the cohesive social identity uniting streaming, game modding, open-source development, tabletop game design, music, and a wide range of other creative projects under one roof. **Nexxus Drako Gaming** is the gaming content sub-brand, focused on the VTuvber character of Nexxus Drako.
+**Nexxus Drako Multimedia** is the creative brand of **Pyra Drake** (also known online as *KitsuNet* and formerly *Jarokn*) — an autistic trans woman and creative jack of all trades from Brisbane, Australia, who trades as an author, video game developer, online content creator, and musician. The brand serves as the cohesive social identity uniting streaming, game modding, open-source development, tabletop game design, music, and a wide range of other creative projects under one roof. 
 
 🌏 **Website:** [nexxusdrako.au](https://nexxusdrako.au/)
 
@@ -8,7 +8,7 @@
 
 ## 🎮 What We Do
 
-- **Streaming & Content Creation** — Live gaming streams on [Twitch](https://www.twitch.tv/nexxus_drako) and videos on [YouTube](https://www.youtube.com/@NexxusDrako), forming a cohesive VTuber personality and brand.
+- **Streaming & Content Creation** — Live gaming streams on [Twitch](https://www.twitch.tv/nexxus_drako) and videos on [YouTube](https://www.youtube.com/@NexxusDrako), forming a cohesive VTuber personality and brand under the **Nexxus Drako Gaming** sub-brand.
 - **Game Development** — Published commercial games including [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/), an RPG Maker MZ incremental/legacy RPG with over 1,400 copies sold on Steam.
 - **Game Modding** — Texture and gameplay mods for classic titles, including the [LMAST Realism Mod](https://github.com/NexxusDrakoGaming/LMAST-Realism) for *Let's Make a Soccer Team!* and [Motorsport Manager Revamped](https://www.nexusmods.com/motorsportmanager/mods/9) on NexusMods.
 - **Music** — EDM artist with chart-topping singles in Australian independent charts under **Extrasolar Detonation**, and a follow-up project **Itavrnai Protocol** (debut album *Genesys* releasing in early 2026).
