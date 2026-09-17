@@ -27,19 +27,20 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/) | Incremental/legacy RPG on Steam — 1,400+ copies sold since 2022 | Published ✓ |
-| [The-Stadium-Project](https://github.com/NexxusDrakoMultimedia/The-Stadium-Project) | Stadium building game | Development |
-| [The-Timeless-Battle](https://github.com/NexxusDrakoMultimedia/The-Timeless-Battle) | RPG Maker incremental proof of concept | Prototype |
-| [Jarokn-Cricket-2](https://github.com/NexxusDrakoMultimedia/Jarokn-Cricket-2) | Casual cricket game | Development |
-| [Dont-Touch-My-Teddy-Bear-Plus](https://github.com/NexxusDrakoMultimedia/Dont-Touch-My-Teddy-Bear-Plus) | Kids mobile game | Development |
-| [Conquest-Metagame](https://github.com/NexxusDrakoMultimedia/Conquest-Metagame) | Territory-conquest metagame using board games to resolve invasions | Development |
+| [The Stadium Project](https://github.com/NexxusDrakoMultimedia/The-Stadium-Project) | Stadium building game | Released — Archived |
+| [The Timeless Battle](https://github.com/NexxusDrakoMultimedia/The-Timeless-Battle) | RPG Maker incremental proof of concept | Prototype |
+| [Jarokn Cricket 2](https://github.com/NexxusDrakoMultimedia/Jarokn-Cricket-2) | Casual cricket game | Released — Archived |
+| [Dont Touch My Teddy Bear Plus](https://github.com/NexxusDrakoMultimedia/Dont-Touch-My-Teddy-Bear-Plus) | Kids mobile game | Released — Archived |
+| [Conquest Metagame](https://github.com/NexxusDrakoMultimedia/Conquest-Metagame) | Territory-conquest metagame using board games to resolve invasions | Development |
+| [Cunning](https://github.com/NexxusDrakoMultimedia/Cunning-Game) | Trick-taking card game | Online Playtesting |
 | [Itch.io](https://nexxus-drako.itch.io/) | Experimental and archived games, prototypes, and game jam entries | Ongoing |
 
 ### 🎨 Mods & Modding
 
 | Mod | Game | Platform |
 |-----|------|----------|
-| [LMAST-Realism](https://github.com/NexxusDrakoMultimedia/LMAST-Realism) | Let's Make a Soccer Team! | PCSX2 (Texture Mod) |
-| [Vyktory-Ao2DE](https://github.com/NexxusDrakoMultimedia/Vyktory-Ao2DE) | Age of History II: Definitive Edition | PC |
+| [LMAST Realism](https://github.com/NexxusDrakoMultimedia/LMAST-Realism) | Let's Make a Soccer Team! | PCSX2 (Texture Mod) |
+| [Vyktory Ao2DE](https://github.com/NexxusDrakoMultimedia/Vyktory-Ao2DE) | Age of History II: Definitive Edition | PC |
 | [Motorsport Manager Revamped](https://www.nexusmods.com/motorsportmanager/mods/9) | Motorsport Manager | NexusMods |
 | [Multiverse Sporting Commission](https://github.com/NexxusDrakoMultimedia/CS3D-Multiverse-Sporting-Commission) | Championship Soccer | Data/World Mod |
 
@@ -54,7 +55,7 @@
 
 | Repository | Description |
 |------------|-------------|
-| [Archive-Project](https://github.com/NexxusDrakoMultimedia/Archive-Project) | Link archive of old Nexxus Drako / Jarokn media and projects |
+| [Archive Project](https://github.com/NexxusDrakoMultimedia/Archive-Project) | Link archive of old Nexxus Drako / Jarokn media and projects |
 
 ---
 
@@ -105,7 +106,7 @@
 
 The Nexxus Drako name has a long history across the internet, growing from early web communities and indie game development under the alias **Jarokn** (and later **Nexxus Drako 313**) into the current multimedia brand.
 
-Past projects have spanned cricket simulations, open scoreboards, Kerbal Space Program mods, Football Manager fantasy nations, and micronational governance in the **Vyktoryan Commonwealth**. The archive of these projects can be found in the [Archive-Project](https://github.com/NexxusDrakoMultimedia/Archive-Project).
+Past projects have spanned cricket simulations, open scoreboards, Kerbal Space Program mods, Football Manager fantasy nations, and micronational governance in the **Vyktoryan Commonwealth**. The archive of these projects can be found in the [Archive Project](https://github.com/NexxusDrakoMultimedia/Archive-Project).
 
 In recent years, the focus has shifted toward professional game development, music production, content creation, and worldbuilding centered around the Itavran Union setting.
 
