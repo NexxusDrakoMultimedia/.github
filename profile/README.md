@@ -32,6 +32,7 @@
 | [Jarokn-Cricket-2](https://github.com/NexxusDrakoMultimedia/Jarokn-Cricket-2) | Casual cricket game | Development |
 | [Dont-Touch-My-Teddy-Bear-Plus](https://github.com/NexxusDrakoMultimedia/Dont-Touch-My-Teddy-Bear-Plus) | Kids mobile game | Development |
 | [Conquest-Metagame](https://github.com/NexxusDrakoMultimedia/Conquest-Metagame) | Territory-conquest metagame using board games to resolve invasions | Development |
+| [Cunning](https://github.com/NexxusDrakoMultimedia/Cunning-Game) | Trick-taking card game | Online Playtesting |
 | [Itch.io](https://nexxus-drako.itch.io/) | Experimental and archived games, prototypes, and game jam entries | Ongoing |
 
 ### 🎨 Mods & Modding
