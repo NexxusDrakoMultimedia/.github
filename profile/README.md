@@ -49,7 +49,7 @@
 | Project | Genre | Status |
 |---------|-------|--------|
 | [Itavrnai Protocol](https://itavrnaiprotocol.bandcamp.com/) | EDM / Electronic | Active — debut album *Genesys* released 3 April 2026 |
-| [Extrasolar Detonation](https://www.abc.net.au/triplejunearthed/artist/nexxus-drako/) | EDM / Electronic | Archive |
+| [Extrasolar Detonation](https://extrasolardetonation.bandcamp.com/) | EDM / Electronic | Archive |
 
 ### 📚 Other Projects
 
