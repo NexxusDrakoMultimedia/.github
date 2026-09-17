@@ -10,7 +10,7 @@
 
 - **Streaming & Content Creation** — Live gaming streams on [Twitch](https://www.twitch.tv/nexxus_drako) and videos on [YouTube](https://www.youtube.com/@NexxusDrako), forming a cohesive VTuber presence with model available on VRoid Hub.
 - **Game Development** — Published commercial games including [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/), an RPG Maker MZ incremental/legacy RPG with over 1,400 copies sold since 2022, and experimental titles on Itch.io.
-- **Game Modding** — Texture and gameplay mods for classic titles, including the [LMAST Realism Mod](https://github.com/NexxusDrakoMultimedia/LMAST-Realism) for *Let's Make a Soccer Team!*, [Motorsport Manager Revamped](https://www.nexusmods.com/motorsportmanager/mods/9), and [Vyktory for Age of History II](https://github.com/NexxusDrakoMultimedia/Vyktory-Ao2DE).
+- **Game Modding** — Texture and gameplay mods for classic titles, including the [LMAST Realism Mod](https://github.com/NexxusDrakoMultimedia/LMAST-Realism) for *Let's Make a Soccer Team!*, [Motorsport Manager Revamped](https://www.nexusmods.com/motorsportmanager/mods/9), [Vyktory for Age of History II](https://github.com/NexxusDrakoMultimedia/Vyktory-Ao2DE), and the [Multiverse Sporting Commission](https://github.com/NexxusDrakoMultimedia/CS3D-Multiverse-Sporting-Commission), a fictional 24-association, 2,144-club football world for Championship Soccer.
 - **Music** — EDM releases under **Itavrnai Protocol**, whose debut album *Genesys* landed in April 2026, following earlier work as **Extrasolar Detonation**.
 - **Tabletop & Metagame Design** — Original game systems like the [Conquest Metagame](https://github.com/NexxusDrakoMultimedia/Conquest-Metagame), a territory-control board game driven by randomly chosen game challenges.
 - **Worldbuilding** — The *Itavran Union*, a space-faring nation with five species from five planets in the Itavrnai system, set within a private shared universe.
@@ -41,12 +41,13 @@
 | [LMAST-Realism](https://github.com/NexxusDrakoMultimedia/LMAST-Realism) | Let's Make a Soccer Team! | PCSX2 (Texture Mod) |
 | [Vyktory-Ao2DE](https://github.com/NexxusDrakoMultimedia/Vyktory-Ao2DE) | Age of History II: Definitive Edition | PC |
 | [Motorsport Manager Revamped](https://www.nexusmods.com/motorsportmanager/mods/9) | Motorsport Manager | NexusMods |
+| [Multiverse Sporting Commission](https://github.com/NexxusDrakoMultimedia/CS3D-Multiverse-Sporting-Commission) | Championship Soccer | Data/World Mod |
 
 ### 🎵 Music
 
 | Project | Genre | Status |
 |---------|-------|--------|
-| [Itavrnai Protocol](https://itavrnaiprotocol.bandcamp.com/) | EDM / Electronic | Active — debut album *Genesys* (3 April 2026) |
+| [Itavrnai Protocol](https://itavrnaiprotocol.bandcamp.com/) | EDM / Electronic | Active — debut album *Genesys* released 3 April 2026 |
 | [Extrasolar Detonation](https://www.abc.net.au/triplejunearthed/artist/nexxus-drako/) | EDM / Electronic | Archive |
 
 ### 📚 Other Projects
@@ -110,5 +111,5 @@ In recent years, the focus has shifted toward professional game development, mus
 
 ---
 
-**Last Updated:** August 2026  
+**Last Updated:** September 2026  
 **Made with ❤️ by Pyra Drake**
