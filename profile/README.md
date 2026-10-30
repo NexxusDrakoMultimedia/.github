@@ -41,7 +41,6 @@ Basically: a lot of creative threads, all braided together into one giant weird 
 | Project | What it is | Status |
 | --- | --- | --- |
 | [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/) | Incremental / legacy RPG on Steam | Published |
-| [Nationwright](https://github.com/NexxusDrakoMultimedia/nationwright) | Single-player nation simulator and world-building sandbox | In development |
 | [Conquest Metagame](https://github.com/NexxusDrakoMultimedia/Conquest-Metagame) | Territory-control board game built around randomised play | In development |
 | [Cunning](https://github.com/NexxusDrakoMultimedia/Cunning-Game) | Trick-taking card game with a weird bluffing structure | Playtesting |
 | [Itch.io](https://nexxus-drako.itch.io/) | Prototypes, archived projects, and experimental game ideas | Ongoing |
@@ -51,6 +50,7 @@ Basically: a lot of creative threads, all braided together into one giant weird 
 | Project | Focus | Platform |
 | --- | --- | --- |
 | [LMAST Realism](https://github.com/NexxusDrakoMultimedia/LMAST-Realism) | Texture and presentation enhancements | PCSX2 |
+| [LMASTER Mod](https://github.com/NexxusDrakoMultimedia/LMASTER-Mod) | Bugfix and difficulty mod for Let's Make a Soccer Team! | PS2 |
 | [LMAST Reverse Engineering Project](https://github.com/NexxusDrakoMultimedia/LMAST-Reverse) | Research, documentation, and tooling | PS2 |
 | [Vyktory Ao2DE](https://github.com/NexxusDrakoMultimedia/Vyktory-Ao2DE) | Historical strategy modding and worldbuilding | PC |
 | [Motorsport Manager Revamped](https://www.nexusmods.com/motorsportmanager/mods/9) | Gameplay and UI tweaks for Motorsport Manager | NexusMods |
