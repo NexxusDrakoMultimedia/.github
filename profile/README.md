@@ -193,11 +193,12 @@ Nexxus Drako Multimedia is committed to building a creative practice that is:
 - protective of community safety and dignity
 - open to collaboration without sacrificing identity
 
-For the project's community expectations, see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+For the project's community expectations, see [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md).
 
-For acknowledgements and cultural/contextual recognition, see [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md).
+For acknowledgements and cultural/contextual recognition, see [ACKNOWLEDGEMENTS.md](../ACKNOWLEDGEMENTS.md).
 
 ---
+
 Last Updated: October 2026
 
 Made with ❤️ by Pyra Drake
