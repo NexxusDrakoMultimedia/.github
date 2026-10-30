@@ -1,8 +1,8 @@
 # Nexxus Drako Multimedia
 
-Nexxus Drako Multimedia is the creative umbrella for Pyra Drake — a Brisbane-based autistic trans woman, game designer, musician, storyteller, and digital creator. This is where the chaos, craft, and worldbuilding all come together.
+Nexxus Drako Multimedia is the creative umbrella for Pyra Drake — a Brisbane-based autistic trans woman, game designer, musician, storyteller, and digital creator. This is where the chaos, craft, and worldbuilding come together.
 
-Think: games, mods, music, art, stories, weird little experiments, and a whole lot of love for building worlds that feel alive.
+Think: games, mods, music, art, stories, experiments, and a whole lot of love for building worlds that feel alive.
 
 - Website: [nexxusdrako.au](https://nexxusdrako.au/)
 - Personal GitHub: [Nexxus-Drako](https://github.com/Nexxus-Drako)
@@ -30,7 +30,7 @@ That includes:
 - archive preservation and media curation
 - amateur radio and community building
 
-Basically: a lot of creative threads, all braided together into one giant weird little galaxy.
+Basically: a lot of creative threads braided into one weird little galaxy.
 
 ---
 
@@ -42,7 +42,7 @@ Basically: a lot of creative threads, all braided together into one giant weird 
 | --- | --- | --- |
 | [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/) | Incremental / legacy RPG on Steam | Published |
 | [Conquest Metagame](https://github.com/NexxusDrakoMultimedia/Conquest-Metagame) | Territory-control board game built around randomised play | In development |
-| [Cunning](https://github.com/NexxusDrakoMultimedia/Cunning-Game) | Trick-taking card game with a weird bluffing structure | Playtesting |
+| [Cunning](https://github.com/NexxusDrakoMultimedia/Cunning-Game) | Trick-taking card game with a bluffing structure | Playtesting |
 | [Itch.io](https://nexxus-drako.itch.io/) | Prototypes, archived projects, and experimental game ideas | Ongoing |
 
 ### Modding & reverse engineering
@@ -75,13 +75,13 @@ Basically: a lot of creative threads, all braided together into one giant weird 
 
 ## The creative heart
 
-My work keeps circling back to a few big themes:
+My work keeps circling back to a few core themes:
 
 - storytelling with emotion and worldbuilding at the centre
 - community-driven creative practice
 - learning across many disciplines and turning that process into art
 - building games, systems, and identities that feel lived-in
-- making weird little ideas into something public, collaborative, and alive
+- turning odd little ideas into something public, collaborative, and alive
 
 The wider universe of my work is centred on the Itavran Union — a fictional space-faring civilisation with its own species, politics, and mythic history.
 
