@@ -143,7 +143,7 @@ Nexxus Drako Multimedia was created on the stolen lands of the Jagera and Turrba
 
 Colonisation didn't end. It is ongoing, and I back First Nations-led fights for land back, treaty, and truth-telling.
 
-Nexxus Drako Multimedia is queer-run and queer-made. Trans, nonbinary, intersex, asexual, aromantic, bi, pan, lesbian, gay, and every other queer voice is welcome here, and actively backed, not tolerated.
+Nexxus Drako Multimedia is queer-run and queer-made. Trans, nonbinary, intersex, asexual, aromantic, bi, pan, lesbian, gay, and every other queer voice is welcome here, and actively backed, not just tolerated.
 
 Transphobia, intersexphobia, homophobia, biphobia, acephobia, and any other bigotry get you removed, with no warnings and no debate.
 
