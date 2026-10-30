@@ -1,118 +1,135 @@
 # Nexxus Drako Multimedia
 
-**Nexxus Drako Multimedia** is the creative brand of **Pyra Drake** (also known online as *KitsuNet* and formerly *Jarokn*) — an autistic trans woman and creative jack of all trades from Brisbane, Australia.
+Nexxus Drako Multimedia is the creative umbrella for Pyra Drake — a Brisbane-based autistic trans woman, game designer, musician, storyteller, and digital creator.
 
-🌏 **Website:** [nexxusdrako.au](https://nexxusdrako.au/)
+Across her work, Pyra blends game development, worldbuilding, music, streaming, graphic design, and community-first storytelling. Her projects are built around imagination, experimentation, and the feeling of building worlds that others can step into.
 
----
-
-## 🎮 What We Do
-
-- **Streaming & Content Creation** — Live gaming streams on [Twitch](https://www.twitch.tv/nexxus_drako) and videos on [YouTube](https://www.youtube.com/@NexxusDrako), forming a cohesive VTuber and creator presence.
-- **Game Development** — Published commercial games including [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/), an RPG Maker MZ incremental/legacy RPG with over 1,400 copies sold.
-- **Game Modding** — Texture and gameplay mods for classic titles, including the [LMAST Realism Mod](https://github.com/NexxusDrakoMultimedia/LMAST-Realism) and [LMAST Reverse Engineering Project](https://github.com/NexxusDrakoMultimedia/LMAST-Reverse).
-- **Music** — EDM releases under **Itavrnai Protocol**, whose debut album *Genesys* landed in April 2026, following earlier work as **Extrasolar Detonation**.
-- **Tabletop & Metagame Design** — Original game systems like the [Conquest Metagame](https://github.com/NexxusDrakoMultimedia/Conquest-Metagame), a territory-control board game driven by random events and strategy.
-- **Worldbuilding** — The *Itavran Union*, a space-faring nation with five species from five planets in the Itavrnai system, set within a private shared universe.
-- **Archive Preservation** — Cataloguing and preserving older Nexxus Drako projects and media through the [Archive Project](https://github.com/NexxusDrakoMultimedia/Archive-Project).
-- **Graphic & Web Design** — Custom branding, VTuber assets, and digital illustration work.
-- **Amateur Radio** — Licensed ham operator (VK4PKD) active in digital and voice modes.
+- Website: [nexxusdrako.au](https://nexxusdrako.au/)
+- Personal GitHub: [Nexxus-Drako](https://github.com/Nexxus-Drako)
+- Bluesky: [@nexxusdrako.au](https://bsky.app/profile/nexxusdrako.au)
+- Twitch: [nexxus_drako](https://www.twitch.tv/nexxus_drako)
+- YouTube: [@NexxusDrako](https://www.youtube.com/@NexxusDrako)
+- Bandcamp: [Itavrnai Protocol](https://itavrnaiprotocol.bandcamp.com/)
+- Ko-fi: [Support Pyra](https://ko-fi.com/nexxusdrako)
 
 ---
 
-## 📁 Projects & Games
+## What I Make
 
-### 🎮 Game Development
+- Streaming & content creation
+- Game development and design
+- Modding and reverse engineering
+- Music production
+- Tabletop and metagame design
+- Worldbuilding and narrative design
+- Graphic and web design
+- Archive preservation and media curation
+- Amateur radio and community building
+
+---
+
+## Featured Projects
+
+### Game Development
 
 | Project | Description | Status |
-|---------|-------------|--------|
-| [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/) | Incremental/legacy RPG on Steam — 1,400+ copies sold since 2022 | Published ✓ |
-| [The Stadium Project](https://github.com/NexxusDrakoMultimedia/The-Stadium-Project) | Stadium building game | Released — Archived |
-| [The Timeless Battle](https://github.com/NexxusDrakoMultimedia/The-Timeless-Battle) | RPG Maker incremental proof of concept | Prototype |
-| [Jarokn Cricket 2](https://github.com/NexxusDrakoMultimedia/Jarokn-Cricket-2) | Casual cricket game | Released — Archived |
-| [Dont Touch My Teddy Bear Plus](https://github.com/NexxusDrakoMultimedia/Dont-Touch-My-Teddy-Bear-Plus) | Kids mobile game | Released — Archived |
-| [Conquest Metagame](https://github.com/NexxusDrakoMultimedia/Conquest-Metagame) | Territory-conquest metagame using board games to resolve invasions | Development |
-| [Cunning](https://github.com/NexxusDrakoMultimedia/Cunning-Game) | Trick-taking card game | Online Playtesting |
-| [Nationwright](https://github.com/NexxusDrakoMultimedia/nationwright) | Single-player nation simulator — found a fictional country, shape its institutions, and follow it through census, election, and governance systems | Active Development |
-| [Itch.io](https://nexxus-drako.itch.io/) | Experimental and archived games, prototypes, and game jam entries | Ongoing |
+| --- | --- | --- |
+| [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/) | Incremental / legacy RPG on Steam | Published |
+| [Nationwright](https://github.com/NexxusDrakoMultimedia/nationwright) | Single-player nation simulator and world-building sandbox | In development |
+| [Conquest Metagame](https://github.com/NexxusDrakoMultimedia/Conquest-Metagame) | Territory-control board game built around randomised play | In development |
+| [Cunning](https://github.com/NexxusDrakoMultimedia/Cunning-Game) | Trick-taking card game with a unique bluffing structure | Playtesting |
+| [Itch.io](https://nexxus-drako.itch.io/) | Prototypes, archived projects, and experimental game ideas | Ongoing |
 
-### 🎨 Mods & Modding
+### Modding & Reverse Engineering
 
-| Mod | Game | Platform |
-|-----|------|----------|
-| [LMAST Realism](https://github.com/NexxusDrakoMultimedia/LMAST-Realism) | Let's Make a Soccer Team! | PCSX2 (Texture Mod) |
-| [LMAST Reverse Engineering Project](https://github.com/NexxusDrakoMultimedia/LMAST-Reverse) | Let's Make a Soccer Team! | PS2 (Reverse-Engineering Docs & Python Tools) |
-| [Vyktory Ao2DE](https://github.com/NexxusDrakoMultimedia/Vyktory-Ao2DE) | Age of History II: Definitive Edition | PC |
-| [Motorsport Manager Revamped](https://www.nexusmods.com/motorsportmanager/mods/9) | Motorsport Manager | NexusMods |
-| [Multiverse Sporting Commission](https://github.com/NexxusDrakoMultimedia/CS3D-Multiverse-Sporting-Commission) | Championship Soccer | Data/World Mod |
+| Project | Focus | Platform |
+| --- | --- | --- |
+| [LMAST Realism](https://github.com/NexxusDrakoMultimedia/LMAST-Realism) | Texture and presentation enhancements | PCSX2 |
+| [LMAST Reverse Engineering Project](https://github.com/NexxusDrakoMultimedia/LMAST-Reverse) | Research, documentation, and tooling | PS2 |
+| [Vyktory Ao2DE](https://github.com/NexxusDrakoMultimedia/Vyktory-Ao2DE) | Historical strategy modding and worldbuilding | PC |
+| [Motorsport Manager Revamped](https://www.nexusmods.com/motorsportmanager/mods/9) | Gameplay and UI tweaks for Motorsport Manager | NexusMods |
 
-### 🎵 Music
+### Music & Creative Worlds
 
-| Project | Genre | Status |
-|---------|-------|--------|
-| [Itavrnai Protocol](https://itavrnaiprotocol.bandcamp.com/) | EDM / Electronic | Active — debut album *Genesys* released 3 April 2026 |
-| [Extrasolar Detonation](https://extrasolardetonation.bandcamp.com/) | EDM / Electronic | Archive |
+| Project | Focus | Status |
+| --- | --- | --- |
+| [Itavrnai Protocol](https://itavrnaiprotocol.bandcamp.com/) | EDM / electronic music | Active |
+| [Extrasolar Detonation](https://extrasolardetonation.bandcamp.com/) | Earlier electronic project and archive | Archived |
+| [Itavrnai.md](https://github.com/NexxusDrakoMultimedia/Itavrnai.md) | Worldbuilding, lore, and narrative structure | Active |
 
-### 📚 Other Projects
+### Archive & Community Projects
 
-| Repository | Description |
-|------------|-------------|
-| [Archive Project](https://github.com/NexxusDrakoMultimedia/Archive-Project) | Link archive of old Nexxus Drako / Jarokn media and projects |
+| Project | Focus |
+| --- | --- |
+| [Archive Project](https://github.com/NexxusDrakoMultimedia/Archive-Project) | Preserving old Nexxus Drako media and projects |
+| [NDG Scripts](https://github.com/NexxusDrakoMultimedia/NDG-Scripts) | Scripts and tools for video content |
+| [DiscordDumps](https://github.com/NexxusDrakoMultimedia/DiscordDumps) | Archival dumps of community server history |
 
 ---
 
-## 🌐 Find Nexxus Drako Online
+## Creative Identity
 
-### 🎬 Streaming & Video
-- [Twitch](https://www.twitch.tv/nexxus_drako) — Live gaming streams
-- [YouTube](https://www.youtube.com/@NexxusDrako) — Video content and uploads
-- [StreamCharts](https://streamscharts.com/channels/nexxus_drako) — Stream statistics
-- [SullyGnome](https://sullygnome.com/channel/nexxus_drako) — Stream analytics
-- [HoloList](https://hololist.net/nexxus-drako/) — VTuber directory
-- [VTubie](https://vtubie.com/nexxus-drako/) — VTuber community
-- [VRoid Hub](https://hub.vroid.com/en/characters/1738764484006502317/models/1363944454341122678) — 3D VTuber model
+Pyra's creative work is built around a few recurring themes:
 
-### 🎮 Gaming & Achievements
-- [Steam](https://steamcommunity.com/id/NexxusDrako/) — Game library and profile
-- [Itch.io](https://nexxus-drako.itch.io/) — Game projects and creations
-- [Speedrun.com](https://www.speedrun.com/users/NexxusDrako) — Speedrun records
+- Storytelling with strong emotional and worldbuilding foundations
+- Community-driven creative practice
+- Learning across many fields and turning that process into art
+- Building games, systems, and identities that feel lived-in
+- Turning personal creativity into public and collaborative worlds
+
+The wider universe of Pyra's work is centred on the Itavran Union — a fictional space-faring civilisation with its own species, politics, and mythic history.
+
+---
+
+## Find Me Online
+
+### Streaming & Video
+
+- [Twitch](https://www.twitch.tv/nexxus_drako) — Live streams and gaming content
+- [YouTube](https://www.youtube.com/@NexxusDrako) — Videos, game showcases, and uploads
+- [StreamCharts](https://streamscharts.com/channels/nexxus_drako) — Channel stats
+- [SullyGnome](https://sullygnome.com/channel/nexxus_drako) — Analytics and audience tracking
+
+### Gaming & Creative Profiles
+
+- [Steam](https://steamcommunity.com/id/NexxusDrako/) — Games and achievements
+- [Itch.io](https://nexxus-drako.itch.io/) — Game prototypes and experiments
+- [Speedrun.com](https://www.speedrun.com/users/NexxusDrako) — Speedrunning profile
 - [Exophase](https://www.exophase.com/user/Nexxus_Drako/) — Achievement tracking
-- [True Achievements (Xbox)](https://www.trueachievements.com/gamer/NexxusDrak0) — Xbox achievements
+- [True Achievements](https://www.trueachievements.com/gamer/NexxusDrak0) — Xbox achievements
 
-### 🎵 Music & Creative
-- [Bandcamp — Itavrnai Protocol](https://itavrnaiprotocol.bandcamp.com/) — Music releases
-- [Triple J Unearthed — Itavrnai Protocol](https://www.abc.net.au/triplejunearthed/artist/itavrnai-protocol/) — Australian independent charts
-- [Last.fm](https://www.last.fm/user/NexxusDrako) — Music scrobbling and stats
+### Music & Social
 
-### 🤝 Social & Community
-- [Bluesky](https://bsky.app/profile/nexxusdrako.au) — Decentralized social media
-- [Discord Server](https://discord.gg/ek64RstbSX) — Community hub
-- [Tumblr](https://tumblr.com/nexxusdrako) — Blog and creative space
-- [Reddit](https://reddit.com/user/DragonessPyra) — Reddit profile
-- [MyAnimeList](https://myanimelist.net/profile/NexxusDrako) — Anime tracking
-- [Ko-fi](https://ko-fi.com/nexxusdrako) — Support & tips
-- [GitHub (Personal)](https://github.com/Nexxus-Drako) — Personal projects
+- [Bandcamp — Itavrnai Protocol](https://itavrnaiprotocol.bandcamp.com/) — Releases and albums
+- [Last.fm](https://www.last.fm/user/NexxusDrako) — Music listening stats
+- [Bluesky](https://bsky.app/profile/nexxusdrako.au) — Social updates and creative notes
+- [Tumblr](https://tumblr.com/nexxusdrako) — Personal blog and creative space
+- [Reddit](https://reddit.com/user/DragonessPyra) — Community discussions
+- [MyAnimeList](https://myanimelist.net/profile/NexxusDrako) — Anime and media tracking
 
-### 📻 Amateur Radio
+### Amateur Radio
+
 - [QRZ — VK4PKD](https://www.qrz.com/db/VK4PKD) — Main callsign
-- [QRZ — VK4UWU](https://www.qrz.com/db/VK4UWU) — Pride Radio Group / League of Furry Amateur Radio
-- [Bluesky (Ham Radio)](https://bsky.app/profile/vk4pkd.bsky.social) — Radio community
+- [QRZ — VK4UWU](https://www.qrz.com/db/VK4UWU) — Community and ham radio projects
+- [Bluesky (Ham Radio)](https://bsky.app/profile/vk4pkd.bsky.social) — Radio community activity
 - [World Radio League](https://app.worldradioleague.com/profile/VK4PKD) — Radio league profile
 
-### 🏃 Other Interests
+### Other Interests
+
 - [Strava](https://strava.com/athletes/nexxusdrako) — Running and fitness tracking
 
 ---
 
-## 📜 History
+## Personal Note
 
-The Nexxus Drako name has a long history across the internet, growing from early web communities and indie game development under the alias **Jarokn** (and later **Nexxus Drako 313**) into the current creative brand.
+The Nexxus Drako name has a long history online, growing from early web communities, indie projects, and creative experimentation into a broader creative practice spanning games, music, design, and storytelling.
 
-Past projects have spanned cricket simulations, open scoreboards, Kerbal Space Program mods, Football Manager fantasy nations, and micronational governance in the **Vyktoryan Commonwealth**. The brand has increasingly focused on professional game development, music production, content creation, and worldbuilding centered around the Itavran Union setting.
+Across different eras, the work has included cricket games, open scoreboards, modding projects, nation-building experiments, and ongoing efforts to turn imagination into something collaborative and alive.
 
-In recent years, the focus has shifted toward professional game development, music production, content creation, and worldbuilding centered around the Itavran Union setting.
+In recent years, the focus has shifted toward professional game development, music production, creative systems, and worldbuilding centred on the Itavran Union.
 
 ---
 
-**Last Updated:** September 2026  
-**Made with ❤️ by Pyra Drake**
+Last updated: October 2026
+
+Made with love by Pyra Drake
