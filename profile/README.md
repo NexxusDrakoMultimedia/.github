@@ -1,8 +1,8 @@
 # Nexxus Drako Multimedia
 
-Nexxus Drako Multimedia is the creative umbrella for Pyra Drake — a Brisbane-based autistic trans woman, game designer, musician, storyteller, and digital creator.
+Nexxus Drako Multimedia is the creative umbrella for Pyra Drake — a Brisbane-based autistic trans woman, game designer, musician, storyteller, and digital creator. This is where the chaos, craft, and worldbuilding all come together.
 
-Across her work, Pyra blends game development, worldbuilding, music, streaming, graphic design, and community-first storytelling. Her projects are built around imagination, experimentation, and the feeling of building worlds that others can step into.
+Think: games, mods, music, art, stories, weird little experiments, and a whole lot of love for building worlds that feel alive.
 
 - Website: [nexxusdrako.au](https://nexxusdrako.au/)
 - Personal GitHub: [Nexxus-Drako](https://github.com/Nexxus-Drako)
@@ -14,33 +14,39 @@ Across her work, Pyra blends game development, worldbuilding, music, streaming, 
 
 ---
 
-## What I Make
+## The vibe
 
-- Streaming & content creation
-- Game development and design
-- Modding and reverse engineering
-- Music production
-- Tabletop and metagame design
-- Worldbuilding and narrative design
-- Graphic and web design
-- Archive preservation and media curation
-- Amateur radio and community building
+I make things because I love making things.
+
+That includes:
+
+- streaming and content creation
+- game development and design
+- modding and reverse engineering
+- music production
+- worldbuilding and lorecraft
+- tabletop and metagame design
+- graphic and web design
+- archive preservation and media curation
+- amateur radio and community building
+
+Basically: a lot of creative threads, all braided together into one giant weird little galaxy.
 
 ---
 
-## Featured Projects
+## Featured projects
 
-### Game Development
+### Game dev
 
-| Project | Description | Status |
+| Project | What it is | Status |
 | --- | --- | --- |
 | [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/) | Incremental / legacy RPG on Steam | Published |
 | [Nationwright](https://github.com/NexxusDrakoMultimedia/nationwright) | Single-player nation simulator and world-building sandbox | In development |
 | [Conquest Metagame](https://github.com/NexxusDrakoMultimedia/Conquest-Metagame) | Territory-control board game built around randomised play | In development |
-| [Cunning](https://github.com/NexxusDrakoMultimedia/Cunning-Game) | Trick-taking card game with a unique bluffing structure | Playtesting |
+| [Cunning](https://github.com/NexxusDrakoMultimedia/Cunning-Game) | Trick-taking card game with a weird bluffing structure | Playtesting |
 | [Itch.io](https://nexxus-drako.itch.io/) | Prototypes, archived projects, and experimental game ideas | Ongoing |
 
-### Modding & Reverse Engineering
+### Modding & reverse engineering
 
 | Project | Focus | Platform |
 | --- | --- | --- |
@@ -49,7 +55,7 @@ Across her work, Pyra blends game development, worldbuilding, music, streaming, 
 | [Vyktory Ao2DE](https://github.com/NexxusDrakoMultimedia/Vyktory-Ao2DE) | Historical strategy modding and worldbuilding | PC |
 | [Motorsport Manager Revamped](https://www.nexusmods.com/motorsportmanager/mods/9) | Gameplay and UI tweaks for Motorsport Manager | NexusMods |
 
-### Music & Creative Worlds
+### Music & worlds
 
 | Project | Focus | Status |
 | --- | --- | --- |
@@ -57,7 +63,7 @@ Across her work, Pyra blends game development, worldbuilding, music, streaming, 
 | [Extrasolar Detonation](https://extrasolardetonation.bandcamp.com/) | Earlier electronic project and archive | Archived |
 | [Itavrnai.md](https://github.com/NexxusDrakoMultimedia/Itavrnai.md) | Worldbuilding, lore, and narrative structure | Active |
 
-### Archive & Community Projects
+### Archive & community projects
 
 | Project | Focus |
 | --- | --- |
@@ -67,60 +73,74 @@ Across her work, Pyra blends game development, worldbuilding, music, streaming, 
 
 ---
 
-## Creative Identity
+## The creative heart
 
-Pyra's creative work is built around a few recurring themes:
+My work keeps circling back to a few big themes:
 
-- Storytelling with strong emotional and worldbuilding foundations
-- Community-driven creative practice
-- Learning across many fields and turning that process into art
-- Building games, systems, and identities that feel lived-in
-- Turning personal creativity into public and collaborative worlds
+- storytelling with emotion and worldbuilding at the centre
+- community-driven creative practice
+- learning across many disciplines and turning that process into art
+- building games, systems, and identities that feel lived-in
+- making weird little ideas into something public, collaborative, and alive
 
-The wider universe of Pyra's work is centred on the Itavran Union — a fictional space-faring civilisation with its own species, politics, and mythic history.
+The wider universe of my work is centred on the Itavran Union — a fictional space-faring civilisation with its own species, politics, and mythic history.
 
 ---
 
-## Find Me Online
+## Find me online
 
-### Streaming & Video
+### Streaming & video
 
-- [Twitch](https://www.twitch.tv/nexxus_drako) — Live streams and gaming content
-- [YouTube](https://www.youtube.com/@NexxusDrako) — Videos, game showcases, and uploads
-- [StreamCharts](https://streamscharts.com/channels/nexxus_drako) — Channel stats
-- [SullyGnome](https://sullygnome.com/channel/nexxus_drako) — Analytics and audience tracking
+- [Twitch](https://www.twitch.tv/nexxus_drako) — live streams and gaming content
+- [YouTube](https://www.youtube.com/@NexxusDrako) — videos, showcases, and uploads
+- [StreamCharts](https://streamscharts.com/channels/nexxus_drako) — channel stats
+- [SullyGnome](https://sullygnome.com/channel/nexxus_drako) — analytics and audience tracking
 
-### Gaming & Creative Profiles
+### Gaming & creative profiles
 
-- [Steam](https://steamcommunity.com/id/NexxusDrako/) — Games and achievements
-- [Itch.io](https://nexxus-drako.itch.io/) — Game prototypes and experiments
-- [Speedrun.com](https://www.speedrun.com/users/NexxusDrako) — Speedrunning profile
-- [Exophase](https://www.exophase.com/user/Nexxus_Drako/) — Achievement tracking
+- [Steam](https://steamcommunity.com/id/NexxusDrako/) — games and achievements
+- [Itch.io](https://nexxus-drako.itch.io/) — game prototypes and experiments
+- [Speedrun.com](https://www.speedrun.com/users/NexxusDrako) — speedrunning profile
+- [Exophase](https://www.exophase.com/user/Nexxus_Drako/) — achievement tracking
 - [True Achievements](https://www.trueachievements.com/gamer/NexxusDrak0) — Xbox achievements
 
-### Music & Social
+### Music & social
 
-- [Bandcamp — Itavrnai Protocol](https://itavrnaiprotocol.bandcamp.com/) — Releases and albums
-- [Last.fm](https://www.last.fm/user/NexxusDrako) — Music listening stats
-- [Bluesky](https://bsky.app/profile/nexxusdrako.au) — Social updates and creative notes
-- [Tumblr](https://tumblr.com/nexxusdrako) — Personal blog and creative space
-- [Reddit](https://reddit.com/user/DragonessPyra) — Community discussions
-- [MyAnimeList](https://myanimelist.net/profile/NexxusDrako) — Anime and media tracking
+- [Bandcamp — Itavrnai Protocol](https://itavrnaiprotocol.bandcamp.com/) — releases and albums
+- [Last.fm](https://www.last.fm/user/NexxusDrako) — music listening stats
+- [Bluesky](https://bsky.app/profile/nexxusdrako.au) — social updates and creative notes
+- [Tumblr](https://tumblr.com/nexxusdrako) — personal blog and creative space
+- [Reddit](https://reddit.com/user/DragonessPyra) — community discussions
+- [MyAnimeList](https://myanimelist.net/profile/NexxusDrako) — anime and media tracking
 
-### Amateur Radio
+### Amateur radio
 
-- [QRZ — VK4PKD](https://www.qrz.com/db/VK4PKD) — Main callsign
-- [QRZ — VK4UWU](https://www.qrz.com/db/VK4UWU) — Community and ham radio projects
-- [Bluesky (Ham Radio)](https://bsky.app/profile/vk4pkd.bsky.social) — Radio community activity
-- [World Radio League](https://app.worldradioleague.com/profile/VK4PKD) — Radio league profile
+- [QRZ — VK4PKD](https://www.qrz.com/db/VK4PKD) — main callsign
+- [QRZ — VK4UWU](https://www.qrz.com/db/VK4UWU) — community and ham radio projects
+- [Bluesky (Ham Radio)](https://bsky.app/profile/vk4pkd.bsky.social) — radio community activity
+- [World Radio League](https://app.worldradioleague.com/profile/VK4PKD) — radio league profile
 
-### Other Interests
+### Other interests
 
-- [Strava](https://strava.com/athletes/nexxusdrako) — Running and fitness tracking
+- [Strava](https://strava.com/athletes/nexxusdrako) — running and fitness tracking
 
 ---
 
-## Personal Note
+## Acknowledgements
+
+Nexxus Drako Multimedia was created on the stolen lands of the Jagera and Turrbal peoples, in what is now called Brisbane. Sovereignty was never ceded. This always was, and always will be, Aboriginal land. I pay my respects to Jagera and Turrbal Elders past and present, and to all Aboriginal and Torres Strait Islander peoples.
+
+Colonisation didn't end; it's ongoing, and I back First Nations-led fights for land back, treaty and truth-telling.
+
+Nexxus Drako Multimedia is queer-run and queer-made. Trans, nonbinary, intersex, asexual, aromantic, bi, pan, lesbian, gay and every other queer voice is welcome here, and actively backed — not tolerated, backed.
+
+Transphobia, intersexphobia, homophobia, biphobia, acephobia and any other bigotry get you removed, no warnings and no debate.
+
+Trans rights are human rights.
+
+---
+
+## Personal note
 
 The Nexxus Drako name has a long history online, growing from early web communities, indie projects, and creative experimentation into a broader creative practice spanning games, music, design, and storytelling.
 
