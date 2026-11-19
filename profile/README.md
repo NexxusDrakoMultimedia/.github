@@ -1,6 +1,6 @@
 # Nexxus Drako Multimedia
 
-Nexxus Drako Multimedia is the creative umbrella for Pyra Drake, a Brisbane-based autistic, plural, queer musician, worldbuilder, game developer, board game designer, graphic designer, and VTuber. This is where the weird little sparks become worlds, games, music, and stories.
+Nexxus Drako Multimedia is the creative umbrella for Pyra Drake, a Brisbane-based autistic sapphic furry, plural demigirl, VTuber, and creative jack-of-all-trades working as a musician, worldbuilder, game developer, board game designer, and graphic designer. This is where the weird little sparks become worlds, games, music, and stories.
 
 It is part brand, part archive, part game studio, part creative playground, and part community space. The work is built around imagination, craft, experimentation, and a deep love of making things that feel alive.
 
