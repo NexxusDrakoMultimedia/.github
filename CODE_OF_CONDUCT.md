@@ -50,7 +50,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Reporting
 
-If you experience or witness unacceptable behaviour, please report it to the project maintainers through the available project contact channels. All reports will be reviewed and investigated promptly and fairly.
+If you experience or witness unacceptable behaviour, please report it to the project maintainers at [nexxus@nexxusdrako.au](mailto:nexxus@nexxusdrako.au). All reports will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident. Reporters will not face retaliation for good-faith reports.
 
